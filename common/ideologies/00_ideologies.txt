@@ -635,6 +635,9 @@ ideologies = {
 			authoritarian_democracy_ideology = {
 			}
 			
+			estado_novo  = {
+			}
+			
 			oligarchism  = {
 			}
 		}
@@ -922,7 +925,10 @@ ideologies = {
 			
 			falangism = {
 			}
-			
+
+                        integralism = {
+			}
+
 			rexism = {
 			}
 			
